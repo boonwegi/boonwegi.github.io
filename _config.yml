@@ -1,6 +1,7 @@
 # ----
 # Site
 
+remote_theme : CloudCannon/frisco-jekyll-template
 title: Frisco Template
 url:"https://boonwegi.github.io"
 baseurl:""
@@ -107,4 +108,4 @@ _comments:
   description: Text shown when sharing on social media
   blurb: Short bio or description of this person
   
-  remote_theme : CloudCannon/frisco-jekyll-template
+
